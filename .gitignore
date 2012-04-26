@@ -1,0 +1,37 @@
+# ----------------------------------
+# Folders
+# ----------------------------------
+[Hh]tml/
+[Ll]atex/
+[Dd]ebug/
+[Rr]elease/
+build/
+[Bb]in/
+[Oo]bj/
+
+
+# ----------------------------------
+# Visual Studio stuff
+# Shouldn't be needed, but who knows
+# ----------------------------------
+*.suo
+*.sln.cache
+*.[Rr]e[Ss]harper*
+*_[Rr]e[Ss]harper*
+*.user
+StyleCop.Cache
+*.dotCover
+*.sln.cache
+*.crunchsolution.*
+*.crunchproject.*
+*.ncrunchsolution
+*.ncrunchproject
+Settings.StyleCop
+
+
+# ----------------------------------
+# Code Blocks specific files
+# ----------------------------------
+*.cbp
+*.depend
+*.layout
