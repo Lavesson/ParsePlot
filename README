@@ -1,0 +1,3 @@
+A parser for mathematical expressions. Written in Code::Blocks and should compile under GCC.
+Documentation is not pushed, but can be generated through code comments.
+Clone the repo and use DoxyGen.
