@@ -4,4 +4,6 @@ Implements Dijkstra's shunting yard algorithm. The current implementation parses
 Documentation is not pushed, but can be generated through code comments.
 Clone the repo and use DoxyGen.
 
+GitHub seems to have played around a little with the code indentation.
+
 Author: Eric Lavesson
