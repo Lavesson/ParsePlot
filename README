@@ -1,6 +1,8 @@
 A parser (and in time, plot data generator) for mathematical expressions. Written in Code::Blocks and should compile under GCC.
 Implements Dijkstra's shunting yard algorithm. The current implementation parses the input from a string to RPN. This expression is then calculated and returned to the user.
 
+It's kind of old and crappy though.
+
 Documentation is not pushed, but can be generated through code comments.
 Clone the repo and use DoxyGen.
 
