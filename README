@@ -1,11 +1,8 @@
-A parser (and in time, plot data generator) for mathematical expressions. Written in Code::Blocks and should compile under GCC.
+A parser (and in time, plot data generator) for mathematical expressions. Should compile under GCC. The project is basically abandoned for now due more pressing matters such as work and other projects.
 Implements Dijkstra's shunting yard algorithm. The current implementation parses the input from a string to RPN. This expression is then calculated and returned to the user.
 
-It's kind of old and crappy though.
+Documentation is not pushed, but can be generated through code comments. Clone the repo and use DoxyGen.
 
-Documentation is not pushed, but can be generated through code comments.
-Clone the repo and use DoxyGen.
-
-GitHub seems to have played around a little with the code indentation.
+Status: The parser works. The plotter is basically useless right now since it's only partially implemented
 
 Author: Eric Lavesson
